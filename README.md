@@ -19,7 +19,7 @@ directly in Colab).
 | Session   | Exercise (Github) | Exercise (Colab) |
 |-----------|------------------|------------------|
 | 1: Introduction | [Link](Intro.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Intro.ipynb)  |
-| 2: Horizon filling | [Link](Horizon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Horizon.ipynb) |
+| 2: Horizon filling | [Link](Horizons.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Horizons.ipynb) |
 | 3: Post-stack inversion | [Link](Poststack.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyLops/pylops_transform2021/blob/master/Poststack.ipynb) |
 
 
