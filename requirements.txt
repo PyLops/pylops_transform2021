@@ -1,0 +1,6 @@
+numpy>=1.15.0
+scipy>=1.4.0
+pylops
+pyproximal
+scooby
+segyio
