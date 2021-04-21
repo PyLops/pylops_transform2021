@@ -1,0 +1,19 @@
+name: pylops_t21
+channels:
+  - defaults
+  - conda-forge
+  - numba
+dependencies:
+  - python>=3.6.4
+  - numpy>=1.15.0
+  - scipy>=1.4.0
+  - matplotlib
+  - pyfftw
+  - pywavelets
+  - ipython
+  - jupyter
+  - pip:
+    - pympler
+    - pyproximal
+    - scooby
+    - segyio
