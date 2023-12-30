@@ -2,7 +2,7 @@ numpy>=1.15.0
 scipy>=1.4.0
 matplotlib
 pympler
-pylops
-pyproximal
+pylops==1.13.0
+pyproximal==0.0.0
 scooby
 segyio

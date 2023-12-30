@@ -8,12 +8,11 @@ dependencies:
   - numpy>=1.15.0
   - scipy>=1.4.0
   - matplotlib
-  - pyfftw
-  - pywavelets
+  - pylops==1.13.0
   - ipython
   - jupyter
   - pip:
     - pympler
-    - pyproximal
+    - pyproximal==0.0.0
     - scooby
     - segyio
